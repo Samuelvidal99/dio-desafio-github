@@ -1,4 +1,4 @@
-# DIO Desagio Git/GitHub
+# DIO Desafio Git/GitHub
 Repositório criado durante o desafio sobre git/github da DIO.
 
 ## Links Úteis
